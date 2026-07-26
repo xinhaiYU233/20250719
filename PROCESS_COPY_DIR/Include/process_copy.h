@@ -7,7 +7,7 @@
 #include<fcntl.h>
 #include<sys/wait.h>
 
-//TODOfunction claim
+//function claim
 int Pram_check(int argc,char*srcfile,int pronum);
 
 int busines_cur(char* srcfile , int pronum);
